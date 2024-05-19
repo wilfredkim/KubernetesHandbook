@@ -31,4 +31,7 @@
 - kubectl scale --replicas=3 -f .\deploy.yaml {scale deployment}
 - kubectl delete -f ./
 
+- minikube image ls --format="table"
+- kubectl service order-service-lb
+
     
