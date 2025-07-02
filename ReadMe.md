@@ -3,6 +3,7 @@
 - minikube start-stop start
 - minikube status
 - minikube dashboard -enable kubernetes dashboard
+- kubectl config get-contexts 
 - kubectl get pods - get all pods
 - minikube stop - stop cluster
 - minikube delete - delete cluster 
