@@ -15,7 +15,7 @@
 - kubectl describe deployment {deployment_name}
 - kubectl describe pod 
 - kubectl logs {pod_name}
-    
+- kubectl create -f .\deploy.yml    (create pod) 
 - kubectl apply -f .\deploy.yml
 - kubectl get pods -0 wide (all info about pods)
 - minikube service {service_name}
