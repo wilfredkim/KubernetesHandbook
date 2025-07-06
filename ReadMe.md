@@ -11,7 +11,7 @@
 - kubectl get service
 - kubectl -h - help command
 - kubectl get replicaset
-    
+- kubectl get rs ( get replica set)    
 - kubectl describe deployment {deployment_name}
 - kubectl describe pod 
 - kubectl logs {pod_name}
