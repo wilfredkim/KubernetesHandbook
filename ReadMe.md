@@ -1,4 +1,6 @@
 ### Kubernetes Commands 👋
+- kind (Kubernetes IN Docker)
+
 -  🌱 Commands
 - minikube start-stop start
 - minikube status
